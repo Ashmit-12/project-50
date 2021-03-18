@@ -1,0 +1,60 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:left;
+    background-color: rgb(108, 157, 186);
+    border:solid rgba(0, 0, 0, 1);
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow:0 8px 16px 0 rgba(0, 0, 0, 1);
+    width: 500px;
+}
+.head{
+    background-color:rgb(108, 116, 226);
+    border:solid;
+    display:flex;
+    justify-content: space-evenly;
+}
+.menu{
+    background-color:rgb(235, 235, 241);
+    border:solid;
+    display:flex;
+    justify-content: space-evenly; 
+    font-size: larger;
+   
+}
+.namegrid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.item{
+    background-color: rgb(108, 157, 186);
+    border:solid rgba(0, 0, 0, 1);
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow:0 8px 16px 0 rgba(0, 0, 0, 1);
+    position:relative;
+    width: 500px;
+}
+.button{
+    background-color: rgb(108, 157, 186);
+    border:solid  #3C3C39 ;
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow:0 8px 16px 0 rgba(0, 0, 0, 1);
+}
+.button1{
+    background-color: rgb(108, 157, 186);
+    border:solid #3C3C39;
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow:0 8px 16px 0 rgba(0, 0, 0, 1);
+}
+.online{
+    background-color:rgb(235, 235, 241);
+    border:solid;
+    display:flex;
+    justify-content: space-evenly; 
+    font-size: larger;
+}
